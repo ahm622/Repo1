@@ -1,5 +1,6 @@
 info: data
 start
 work:
-task 1
+task un
+task deux
 end
